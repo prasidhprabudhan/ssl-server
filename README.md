@@ -1,4 +1,10 @@
 
+Install the gems by executing following command.
+
+```bash
+bundle install
+```
+
 Test the program by executing following command.
 
 ```bash
